@@ -1,0 +1,9 @@
+Building TPCash
+
+See doc/readme-qt.rst for instructions on building TPCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TPCash.
+
+See doc/build-*.txt for instructions on building tpcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TPCash.
