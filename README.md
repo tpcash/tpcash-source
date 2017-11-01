@@ -8,7 +8,7 @@ The PoW subsidy halves every x64 multiply of PoW difficulty
 The PoS interest halves every x64 multiply of PoS difficulty
 Maximum PoW reward is 50 coins
 Maximum PoS reward is 100 coins
-No deterministic limit of the supply, currently ~ 1411259 coins mined
+No deterministic limit of the supply, currently ~ 5 3 6 4 9 4 8 coins mined
 Development process
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
